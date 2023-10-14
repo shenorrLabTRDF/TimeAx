@@ -1,0 +1,16 @@
+Package: TimeAx
+Type: Package
+Title: Multiple trajectory alignment of time-series data
+Version: 0.1.1
+Author: Amit Frishberg [aut, cre],  Neta Milman [aut], Ayelet Alpert [aut], Joachim L. Schultze [aut], Fabian Theis [aut], Shai S. Shen-Orr [aut]
+Maintainer: Amit Frishberg <amfrishberg@gmail.com>
+URL: https://github.com/amitfrish/TimeAx
+BugReports: https://github.com/amitfrish/TimeAx/issues
+Description: TimeAx, a method that models disease dynamics over time based on time-series data from multiple individuals, thus tracing the dynamics and progression rates associated with molecular mechanisms of the disease and patients’ clinical outcomes. Similar to computational sequence alignment approaches, which provide biologists the capability to understand DNA and protein function through a quantitative comparison, TimeAx performs multiple alignment of shared dynamics across a common trajectory, thus allowing the modeling of any type of continuous process and its quantitative comparison.
+License: GPL-2
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.2
+biocViews: limma
+Depends: R (>= 4.1.0)
+Imports: dtw, foreach, parallel, doSNOW, phangorn, fields, Matrix, cppRouting, stats

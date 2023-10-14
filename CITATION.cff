@@ -1,0 +1,32 @@
+cff-version: 1.1.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Frishberg
+    given-names: Amit
+  - family-names: Milman
+    given-names: Neta
+  - family-names: Alpert
+    given-names: Ayelet
+  - family-names: Alpert
+    given-names: Ayelet
+  - family-names: Spitzer
+    given-names: Hannah
+  - family-names: Asani
+    given-names: Ben
+  - family-names: Schiefelbein
+    given-names: Johannes B.
+  - family-names: Bakin
+    given-names: Evgeny
+  - family-names: Regev-Berman
+    given-names: Karen
+  - family-names: Priglinger
+    given-names: Siegfried G.
+  - family-names: Schultze
+    given-names: Joachim L.
+  - family-names: Theis
+    given-names: Fabian J.
+  - family-names: Shen-Orr
+    given-names: Shai S.
+title: Reconstructing disease dynamics for mechanistic insights and clinical benefit
+version: Official
+date-released: 2023-07-27
